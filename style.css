@@ -1,0 +1,119 @@
+h1 {
+	color: #99c1de;
+	font-size: 50px ;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+}
+
+h2 { 
+	color: #e8a598;
+	font-size: 30px ;
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+}
+
+h3 { 
+	color: #5ca4a9 ; 
+	font-size:20px ;
+	font-family:'Anton', sans-serif ;
+	text-align: center;
+}
+
+p { 
+	color: #c05299 ; 
+	font-size: 20px ;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+body { 
+background-color: #e2ece9;
+}
+
+div { 
+	width: 800px;
+	background-color: #cddafd ; 
+	border-radius: 20px;
+	text-align: center;
+	margin: 0 auto  ; 
+	box-shadow: 10px 10px 30px #cddafd;
+}
+
+#logo { 
+	border-radius:15% ; 
+	width: 150px;
+	height: 200px;
+	object-fit: cover;
+	object-position: top;
+} 
+
+#noel { 
+  	width: 50px; 
+  	height:200px ;
+  	object-fit: cover;
+  	object-position: top;
+ }
+
+#jeux_video { 
+	width: 50px; 
+  	height:200px ;
+  	object-fit: cover;
+  	object-position: to; 
+ }
+
+.journal_activités { 
+	background-color: #d3f8e2; 
+}
+
+.mes_travaux { 
+	background-color: #fad2e1 }
+
+.instagram {
+	background-color: #ffd7ba;
+	color: #04395e ;
+}
+
+.fa-instagram {
+	font-size: 45px;
+	color:#ab3428 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
